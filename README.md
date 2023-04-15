@@ -1,1 +1,3 @@
 # Cyclic-Executive-Scheduling-Time-Triggered-Approach-SZ
+
+This project is taken as a semester project of Embedded Systems course. Our aim is to generate and implement Cyclic Executive Scheduling. In this type of scheduling we try to schedule a task set, each task can have different periods, and computation time.  Challenge here is not just to find feasibility of task, but also to generate a schedule by assigning each task an appropriate phase, and other parameters.  Later on as the project may succeed in effectively generating a feasible schedule, we will try implementing that on some STM32 Microcontroller.
